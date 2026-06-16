@@ -9,7 +9,7 @@ env:
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
-  AZURE_WEBAPP_NAME: samplegithubactions-ttt-app
+  AZURE_WEBAPP_NAME: sampleactions-ttt-app
 
 jobs:
   setup-up-azure-resources:
